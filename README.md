@@ -128,9 +128,19 @@ Pooja
 ```
 
 SCREENSHOTS:
+1) A long link found on the web which we need to shorten.
+
 <img width="1280" alt="image" src="https://github.com/user-attachments/assets/28a331a1-e2ab-4d6b-b3ed-58d4916fea5a" />
 
+
+
+
+2)The application's webpage
+
 ![image](https://github.com/user-attachments/assets/b5cac550-654f-4381-9d59-bc3ffe19989d)
+
+
+3) Output (A shortened link!)
 
 <img width="527" alt="image" src="https://github.com/user-attachments/assets/50bbfddc-5faa-4000-83ca-4eec514c6906" />
 
