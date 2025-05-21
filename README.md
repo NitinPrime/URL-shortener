@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/72fee19c-b7ea-4d74-94cd-60ac749c3398)# URL Shortener
+# URL Shortener
 
 A simple URL shortener web application with a Node.js + Express backend and React frontend. This project allows users to create shortened URLs and redirect to the original URLs.
 
